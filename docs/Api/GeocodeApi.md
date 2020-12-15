@@ -1,6 +1,6 @@
 # GoogleApi\Client\GeocodeApi
 
-All URIs are relative to *https://oauth2.choco-technologies.com/maps/api*
+All URIs are relative to *https://maps.googleapis.com/maps/api*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
